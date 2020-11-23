@@ -6,6 +6,7 @@ class Cdk8s < Formula
   url "https://registry.npmjs.org/cdk8s-cli/-/cdk8s-cli-0.33.0.tgz"
   sha256 "e18eeb79e8764fb4da4c92fb0a14d4d44e06b0c571d3e719cb19ede1b36d6572"
   license "Apache-2.0"
+  head "https://registry.npmjs.org/cdk8s-cli/-/cdk8s-cli-1.0.0-beta.3.tgz"
 
   livecheck do
     url :stable
